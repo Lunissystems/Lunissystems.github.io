@@ -1,0 +1,110 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lunissytems.github.io" resolutions="1x,2x" timestamp="1510869592008">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4127351747" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cactus-crop-u1423.jpg" crc="267210397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1423_2x.jpg" crc="4130508468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1425.jpg" crc="272653662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1425_2x.jpg" crc="450409966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1421.jpg" crc="456511408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1421_2x.jpg" crc="173727129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1429.jpg" crc="181632940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1429_2x.jpg" crc="4025503965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-crop-u1431.jpg" crc="236567704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1431_2x.jpg" crc="4285628527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1433.jpg" crc="4285275583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1433_2x.jpg" crc="322992257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left_normal.png" crc="4110868012" ref="index">
+      <caption webpage="index" alt="&lt;"/>
+    </file>
+    <file name="left_normal_2x.png" crc="225212669" ref="index">
+      <caption webpage="index" alt="&lt;"/>
+    </file>
+    <file name="left_active.png" crc="237434824" ref="index">
+      <caption webpage="index" alt="&lt;"/>
+    </file>
+    <file name="left_active_2x.png" crc="3912724174" ref="index">
+      <caption webpage="index" alt="&lt;"/>
+    </file>
+    <file name="right_normal.png" crc="8257147" ref="index">
+      <caption webpage="index" alt=">"/>
+    </file>
+    <file name="right_normal_2x.png" crc="4242526119" ref="index">
+      <caption webpage="index" alt=">"/>
+    </file>
+    <file name="right_active.png" crc="157089117" ref="index">
+      <caption webpage="index" alt=">"/>
+    </file>
+    <file name="right_active_2x.png" crc="3801494509" ref="index">
+      <caption webpage="index" alt=">"/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="test_logo.jpg" crc="15844276" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kingpin_concept.png" crc="4103142288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kingpin_concept_2x.png" crc="3917307832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="geforce_gtx_titan-xp_3qtr_front_left.png" crc="3895270611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u369-4.png" crc="4195169841" ref="index"/>
+    <file name="u369-4_2x.png" crc="3916323029" ref="index"/>
+    <file name="u1094-4.png" crc="360328871" ref="index"/>
+    <file name="u1094-4_2x.png" crc="117071764" ref="index"/>
+    <file name="u1114-4.png" crc="4161222653" ref="index"/>
+    <file name="u1114-4_2x.png" crc="88879922" ref="index"/>
+    <file name="u1135-4.png" crc="4175351655" ref="index"/>
+    <file name="u1135-4_2x.png" crc="3893811128" ref="index"/>
+    <file name="u1156-4.png" crc="4126566349" ref="index"/>
+    <file name="u1156-4_2x.png" crc="3900814072" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4142025882" seo="true" mt="1510869368474" redirect="true"/>
+</manifest>
