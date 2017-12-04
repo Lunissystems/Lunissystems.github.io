@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lunissytems.github.io" resolutions="1x,2x" timestamp="1510869592008">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lunissytems.github.io" resolutions="1x,2x" timestamp="1512424158043">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4127351747" ref="index"/>
+    <file name="index.css" crc="3937531378" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,12 +13,20 @@
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="trees439x293.jpg" crc="197107745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees439x293_2x.jpg" crc="3985269835" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo01_color1-01.svg" crc="3911754576" ref="index"/>
+    <file name="logo01_color1-01_poster_u1880.png" crc="4032146384" ref="index"/>
     <file name="cactus-crop-u1423.jpg" crc="267210397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -43,7 +51,6 @@
     <file name="cactus-crop-u1429_2x.jpg" crc="4025503965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="road-crop-u1431.jpg" crc="236567704" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -81,9 +88,6 @@
       <caption webpage="index" alt=">"/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="test_logo.jpg" crc="15844276" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="kingpin_concept.png" crc="4103142288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -95,16 +99,14 @@
     <file name="geforce_gtx_titan-xp_3qtr_front_left.png" crc="3895270611" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u369-4.png" crc="4195169841" ref="index"/>
-    <file name="u369-4_2x.png" crc="3916323029" ref="index"/>
-    <file name="u1094-4.png" crc="360328871" ref="index"/>
-    <file name="u1094-4_2x.png" crc="117071764" ref="index"/>
-    <file name="u1114-4.png" crc="4161222653" ref="index"/>
-    <file name="u1114-4_2x.png" crc="88879922" ref="index"/>
-    <file name="u1135-4.png" crc="4175351655" ref="index"/>
-    <file name="u1135-4_2x.png" crc="3893811128" ref="index"/>
-    <file name="u1156-4.png" crc="4126566349" ref="index"/>
-    <file name="u1156-4_2x.png" crc="3900814072" ref="index"/>
+    <file name="u369-4.png" crc="3790520239" ref="index"/>
+    <file name="u369-4_2x.png" crc="67810970" ref="index"/>
+    <file name="u1094-4.png" crc="3968701611" ref="index"/>
+    <file name="u1094-4_2x.png" crc="186211090" ref="index"/>
+    <file name="u1809-4.png" crc="412916688" ref="index"/>
+    <file name="u1809-4_2x.png" crc="4275265467" ref="index"/>
+    <file name="u1846-4.png" crc="39218995" ref="index"/>
+    <file name="u1846-4_2x.png" crc="3800994288" ref="index"/>
   </folder>
-  <file name="index.html" crc="4142025882" seo="true" mt="1510869368474" redirect="true"/>
+  <file name="index.html" crc="3984368842" seo="true" mt="1512423895551" redirect="true"/>
 </manifest>
