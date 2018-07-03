@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lunissytems.github.io" resolutions="1x,2x" timestamp="1530630484004">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lunissytems.github.io" resolutions="1x,2x" timestamp="1530631468845">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4257204880" ref="index"/>
+    <file name="index.css" crc="3915635005" ref="index"/>
     <file name="nomq_index.css" crc="431969105" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -576,6 +576,7 @@
     <file name="u1809-4_2x9.png" crc="151803737" ref="index"/>
     <file name="u1846-49.png" crc="4020591480" ref="index"/>
     <file name="u1846-4_2x9.png" crc="4149080940" ref="index"/>
+    <file name="lunissystems---home-favicon.ico" crc="123947972" ref="index"/>
   </folder>
-  <file name="index.html" crc="4292618000" seo="true" mt="1530630448779" redirect="true"/>
+  <file name="index.html" crc="248884649" seo="true" mt="1530631448791" redirect="true"/>
 </manifest>
