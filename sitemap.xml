@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://lunissytems.github.io/index.html</loc>
-    <lastmod>2018-06-29</lastmod>
+    <lastmod>2018-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -259,6 +259,36 @@
     </image:image>
     <image:image>
       <image:loc>http://lunissytems.github.io/images/kingpin_concept488x255.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/kingpin_concept683x357.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/cactus-crop-u14239.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/cactus-crop-u1423_2x9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/road-crop-u14219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/road-crop-u1421_2x9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/trees-crop-u14259.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/trees-crop-u1425_2x9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/cactus-crop-u14299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/road-crop-u14319.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lunissytems.github.io/images/trees-crop-u14339.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
